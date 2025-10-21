@@ -16,6 +16,32 @@
 		D95F73692E2FF81600E9CA07 /* AbacusTestKitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95F73682E2FF81600E9CA07 /* AbacusTestKitTests.swift */; };
 		D95F73732E2FF81600E9CA07 /* AbacusTestKitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95F73722E2FF81600E9CA07 /* AbacusTestKitUITests.swift */; };
 		D95F73752E2FF81600E9CA07 /* AbacusTestKitUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95F73742E2FF81600E9CA07 /* AbacusTestKitUITestsLaunchTests.swift */; };
+		D95F73872E2FFB6A00E9CA07 /* endpointsDev.plist in Resources */ = {isa = PBXBuildFile; fileRef = D95F73862E2FFB6A00E9CA07 /* endpointsDev.plist */; };
+		D95F73892E2FFC2C00E9CA07 /* APIEndpointModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95F73882E2FFC2C00E9CA07 /* APIEndpointModel.swift */; };
+		D95F738B2E2FFC7300E9CA07 /* UtilServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95F738A2E2FFC7300E9CA07 /* UtilServices.swift */; };
+		D95F738D2E2FFCA800E9CA07 /* ApiService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95F738C2E2FFCA700E9CA07 /* ApiService.swift */; };
+		D95F738F2E300ECE00E9CA07 /* CurrencyList.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95F738E2E300ECE00E9CA07 /* CurrencyList.swift */; };
+		D95F73912E30103300E9CA07 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95F73902E30103300E9CA07 /* Home.swift */; };
+		D95F73932E3014B100E9CA07 /* Trade.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95F73922E3014B100E9CA07 /* Trade.swift */; };
+		D95F73952E3014DE00E9CA07 /* Wallet.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95F73942E3014DE00E9CA07 /* Wallet.swift */; };
+		D95F73972E30151B00E9CA07 /* Searching.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95F73962E30151B00E9CA07 /* Searching.swift */; };
+		D95F73992E30156500E9CA07 /* Messages.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95F73982E30156500E9CA07 /* Messages.swift */; };
+		D95F739C2E303CC500E9CA07 /* TabBarModifierUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95F739B2E303CC500E9CA07 /* TabBarModifierUtils.swift */; };
+		D95F739E2E3041AC00E9CA07 /* SearchViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95F739D2E3041AC00E9CA07 /* SearchViewModel.swift */; };
+		D95F73A02E30423700E9CA07 /* FolioList.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95F739F2E30423700E9CA07 /* FolioList.swift */; };
+		D95F73A22E30475100E9CA07 /* TradeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95F73A12E30475100E9CA07 /* TradeViewModel.swift */; };
+		D95F73A42E304B0100E9CA07 /* CashBalanceViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95F73A32E304B0100E9CA07 /* CashBalanceViewModel.swift */; };
+		D95F73A62E304D0300E9CA07 /* CashMoney.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95F73A52E304D0300E9CA07 /* CashMoney.swift */; };
+		D95F73A82E306F2400E9CA07 /* UtilsFormats.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95F73A72E306F2400E9CA07 /* UtilsFormats.swift */; };
+		D95F73AC2E31406D00E9CA07 /* HomeUsers.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95F73AB2E31406D00E9CA07 /* HomeUsers.swift */; };
+		D95F73AE2E31540600E9CA07 /* UtilNavegation.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95F73AD2E31540600E9CA07 /* UtilNavegation.swift */; };
+		D95F73B02E3158AE00E9CA07 /* Percentage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95F73AF2E3158AE00E9CA07 /* Percentage.swift */; };
+		D95F73B22E315E5500E9CA07 /* CashSearchViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95F73B12E315E5500E9CA07 /* CashSearchViewModel.swift */; };
+		D95F73B42E315F2900E9CA07 /* PercentageViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95F73B32E315F2900E9CA07 /* PercentageViewModel.swift */; };
+		D95F73B62E31950700E9CA07 /* SearchNew.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95F73B52E31950700E9CA07 /* SearchNew.swift */; };
+		D95F73B82E32A80400E9CA07 /* GraphicsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95F73B72E32A80400E9CA07 /* GraphicsViewModel.swift */; };
+		D95F73BA2E32A89000E9CA07 /* GraphicCurrency.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95F73B92E32A89000E9CA07 /* GraphicCurrency.swift */; };
+		D95F73BD2E3A852E00E9CA07 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = D95F73BC2E3A852E00E9CA07 /* Localizable.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +74,32 @@
 		D95F736E2E2FF81600E9CA07 /* AbacusTestKitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AbacusTestKitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D95F73722E2FF81600E9CA07 /* AbacusTestKitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AbacusTestKitUITests.swift; sourceTree = "<group>"; };
 		D95F73742E2FF81600E9CA07 /* AbacusTestKitUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AbacusTestKitUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D95F73862E2FFB6A00E9CA07 /* endpointsDev.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = endpointsDev.plist; sourceTree = "<group>"; };
+		D95F73882E2FFC2C00E9CA07 /* APIEndpointModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIEndpointModel.swift; sourceTree = "<group>"; };
+		D95F738A2E2FFC7300E9CA07 /* UtilServices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UtilServices.swift; sourceTree = "<group>"; };
+		D95F738C2E2FFCA700E9CA07 /* ApiService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiService.swift; sourceTree = "<group>"; };
+		D95F738E2E300ECE00E9CA07 /* CurrencyList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyList.swift; sourceTree = "<group>"; };
+		D95F73902E30103300E9CA07 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		D95F73922E3014B100E9CA07 /* Trade.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trade.swift; sourceTree = "<group>"; };
+		D95F73942E3014DE00E9CA07 /* Wallet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wallet.swift; sourceTree = "<group>"; };
+		D95F73962E30151B00E9CA07 /* Searching.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Searching.swift; sourceTree = "<group>"; };
+		D95F73982E30156500E9CA07 /* Messages.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Messages.swift; sourceTree = "<group>"; };
+		D95F739B2E303CC500E9CA07 /* TabBarModifierUtils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarModifierUtils.swift; sourceTree = "<group>"; };
+		D95F739D2E3041AC00E9CA07 /* SearchViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewModel.swift; sourceTree = "<group>"; };
+		D95F739F2E30423700E9CA07 /* FolioList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FolioList.swift; sourceTree = "<group>"; };
+		D95F73A12E30475100E9CA07 /* TradeViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TradeViewModel.swift; sourceTree = "<group>"; };
+		D95F73A32E304B0100E9CA07 /* CashBalanceViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CashBalanceViewModel.swift; sourceTree = "<group>"; };
+		D95F73A52E304D0300E9CA07 /* CashMoney.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CashMoney.swift; sourceTree = "<group>"; };
+		D95F73A72E306F2400E9CA07 /* UtilsFormats.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UtilsFormats.swift; sourceTree = "<group>"; };
+		D95F73AB2E31406D00E9CA07 /* HomeUsers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeUsers.swift; sourceTree = "<group>"; };
+		D95F73AD2E31540600E9CA07 /* UtilNavegation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UtilNavegation.swift; sourceTree = "<group>"; };
+		D95F73AF2E3158AE00E9CA07 /* Percentage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Percentage.swift; sourceTree = "<group>"; };
+		D95F73B12E315E5500E9CA07 /* CashSearchViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CashSearchViewModel.swift; sourceTree = "<group>"; };
+		D95F73B32E315F2900E9CA07 /* PercentageViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PercentageViewModel.swift; sourceTree = "<group>"; };
+		D95F73B52E31950700E9CA07 /* SearchNew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchNew.swift; sourceTree = "<group>"; };
+		D95F73B72E32A80400E9CA07 /* GraphicsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GraphicsViewModel.swift; sourceTree = "<group>"; };
+		D95F73B92E32A89000E9CA07 /* GraphicCurrency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GraphicCurrency.swift; sourceTree = "<group>"; };
+		D95F73BC2E3A852E00E9CA07 /* Localizable.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +150,13 @@
 		D95F73512E2FF80800E9CA07 /* AbacusTestKit */ = {
 			isa = PBXGroup;
 			children = (
+				D95F73BB2E3A84FC00E9CA07 /* Localizer */,
+				D95F739A2E303C1900E9CA07 /* Utils */,
+				D95F73852E2FF9AD00E9CA07 /* ViewModels */,
+				D95F73842E2FF96D00E9CA07 /* EndPoints */,
+				D95F73832E2FF94A00E9CA07 /* Services */,
+				D95F73822E2FF91600E9CA07 /* Views */,
+				D95F73812E2FF8EB00E9CA07 /* Models */,
 				D95F73522E2FF80800E9CA07 /* AbacusTestKitApp.swift */,
 				D95F73542E2FF80800E9CA07 /* ContentView.swift */,
 				D95F73562E2FF81500E9CA07 /* Assets.xcassets */,
@@ -131,6 +190,81 @@
 				D95F73742E2FF81600E9CA07 /* AbacusTestKitUITestsLaunchTests.swift */,
 			);
 			path = AbacusTestKitUITests;
+			sourceTree = "<group>";
+		};
+		D95F73812E2FF8EB00E9CA07 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				D95F73882E2FFC2C00E9CA07 /* APIEndpointModel.swift */,
+				D95F738E2E300ECE00E9CA07 /* CurrencyList.swift */,
+				D95F739F2E30423700E9CA07 /* FolioList.swift */,
+				D95F73A52E304D0300E9CA07 /* CashMoney.swift */,
+				D95F73AF2E3158AE00E9CA07 /* Percentage.swift */,
+				D95F73B92E32A89000E9CA07 /* GraphicCurrency.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		D95F73822E2FF91600E9CA07 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				D95F73902E30103300E9CA07 /* Home.swift */,
+				D95F73922E3014B100E9CA07 /* Trade.swift */,
+				D95F73942E3014DE00E9CA07 /* Wallet.swift */,
+				D95F73962E30151B00E9CA07 /* Searching.swift */,
+				D95F73982E30156500E9CA07 /* Messages.swift */,
+				D95F73AB2E31406D00E9CA07 /* HomeUsers.swift */,
+				D95F73B52E31950700E9CA07 /* SearchNew.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		D95F73832E2FF94A00E9CA07 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				D95F738A2E2FFC7300E9CA07 /* UtilServices.swift */,
+				D95F738C2E2FFCA700E9CA07 /* ApiService.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		D95F73842E2FF96D00E9CA07 /* EndPoints */ = {
+			isa = PBXGroup;
+			children = (
+				D95F73862E2FFB6A00E9CA07 /* endpointsDev.plist */,
+			);
+			path = EndPoints;
+			sourceTree = "<group>";
+		};
+		D95F73852E2FF9AD00E9CA07 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				D95F739D2E3041AC00E9CA07 /* SearchViewModel.swift */,
+				D95F73A12E30475100E9CA07 /* TradeViewModel.swift */,
+				D95F73A32E304B0100E9CA07 /* CashBalanceViewModel.swift */,
+				D95F73B12E315E5500E9CA07 /* CashSearchViewModel.swift */,
+				D95F73B32E315F2900E9CA07 /* PercentageViewModel.swift */,
+				D95F73B72E32A80400E9CA07 /* GraphicsViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		D95F739A2E303C1900E9CA07 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				D95F739B2E303CC500E9CA07 /* TabBarModifierUtils.swift */,
+				D95F73A72E306F2400E9CA07 /* UtilsFormats.swift */,
+				D95F73AD2E31540600E9CA07 /* UtilNavegation.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		D95F73BB2E3A84FC00E9CA07 /* Localizer */ = {
+			isa = PBXGroup;
+			children = (
+				D95F73BC2E3A852E00E9CA07 /* Localizable.strings */,
+			);
+			path = Localizer;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -237,6 +371,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D95F73872E2FFB6A00E9CA07 /* endpointsDev.plist in Resources */,
+				D95F73BD2E3A852E00E9CA07 /* Localizable.strings in Resources */,
 				D95F735A2E2FF81500E9CA07 /* Preview Assets.xcassets in Resources */,
 				D95F73572E2FF81500E9CA07 /* Assets.xcassets in Resources */,
 			);
@@ -263,10 +399,34 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D95F73932E3014B100E9CA07 /* Trade.swift in Sources */,
+				D95F73892E2FFC2C00E9CA07 /* APIEndpointModel.swift in Sources */,
+				D95F73A42E304B0100E9CA07 /* CashBalanceViewModel.swift in Sources */,
+				D95F73B42E315F2900E9CA07 /* PercentageViewModel.swift in Sources */,
+				D95F739C2E303CC500E9CA07 /* TabBarModifierUtils.swift in Sources */,
+				D95F738B2E2FFC7300E9CA07 /* UtilServices.swift in Sources */,
+				D95F73B62E31950700E9CA07 /* SearchNew.swift in Sources */,
+				D95F73A62E304D0300E9CA07 /* CashMoney.swift in Sources */,
+				D95F73952E3014DE00E9CA07 /* Wallet.swift in Sources */,
 				D95F735C2E2FF81500E9CA07 /* Persistence.swift in Sources */,
+				D95F739E2E3041AC00E9CA07 /* SearchViewModel.swift in Sources */,
 				D95F735F2E2FF81500E9CA07 /* AbacusTestKit.xcdatamodeld in Sources */,
+				D95F73992E30156500E9CA07 /* Messages.swift in Sources */,
+				D95F73912E30103300E9CA07 /* Home.swift in Sources */,
 				D95F73552E2FF80800E9CA07 /* ContentView.swift in Sources */,
+				D95F738F2E300ECE00E9CA07 /* CurrencyList.swift in Sources */,
+				D95F73972E30151B00E9CA07 /* Searching.swift in Sources */,
+				D95F73A22E30475100E9CA07 /* TradeViewModel.swift in Sources */,
+				D95F738D2E2FFCA800E9CA07 /* ApiService.swift in Sources */,
 				D95F73532E2FF80800E9CA07 /* AbacusTestKitApp.swift in Sources */,
+				D95F73A82E306F2400E9CA07 /* UtilsFormats.swift in Sources */,
+				D95F73AE2E31540600E9CA07 /* UtilNavegation.swift in Sources */,
+				D95F73A02E30423700E9CA07 /* FolioList.swift in Sources */,
+				D95F73B82E32A80400E9CA07 /* GraphicsViewModel.swift in Sources */,
+				D95F73B22E315E5500E9CA07 /* CashSearchViewModel.swift in Sources */,
+				D95F73AC2E31406D00E9CA07 /* HomeUsers.swift in Sources */,
+				D95F73BA2E32A89000E9CA07 /* GraphicCurrency.swift in Sources */,
+				D95F73B02E3158AE00E9CA07 /* Percentage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

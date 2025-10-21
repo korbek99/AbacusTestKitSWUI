@@ -13,7 +13,8 @@ struct AbacusTestKitApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Home()
+            //ContentView()
                 .environment(\.managedObjectContext, persistenceController.container.viewContext)
         }
     }

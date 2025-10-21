@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "680B5563-B6BF-4733-AB5E-71FED2DDE7F3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE588F9D-04B3-4C05-A2F2-460F4A069A55"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AbacusTestKit/Services/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "getPortafolio(for:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DE588F9D-04B3-4C05-A2F2-460F4A069A55 - f102b2dad2bb7322"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AbacusTestKit.webServicesItems.getPortafolio(for: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;AbacusTestKit.CurrencyList&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AbacusTestKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/AbacusTestKit/AbacusTestKit/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "840">
+               </Location>
+               <Location
+                  uuid = "DE588F9D-04B3-4C05-A2F2-460F4A069A55 - f102b2dad2bb7343"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AbacusTestKit.webServicesItems.getPortafolio(for: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;AbacusTestKit.CurrencyList&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AbacusTestKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/AbacusTestKit/AbacusTestKit/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "820">
+               </Location>
+               <Location
+                  uuid = "DE588F9D-04B3-4C05-A2F2-460F4A069A55 - f102b2dad2bb7364"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AbacusTestKit.webServicesItems.getPortafolio(for: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;AbacusTestKit.CurrencyList&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AbacusTestKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/AbacusTestKit/AbacusTestKit/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "820">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A752EDBF-78D2-4471-8548-3DEE94E4EC91"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AbacusTestKit/Services/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getPortafolio(for:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A752EDBF-78D2-4471-8548-3DEE94E4EC91 - f102b2dad2bb7554"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AbacusTestKit.webServicesItems.getPortafolio(for: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;AbacusTestKit.CurrencyList&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AbacusTestKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/AbacusTestKit/AbacusTestKit/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "2484">
+               </Location>
+               <Location
+                  uuid = "A752EDBF-78D2-4471-8548-3DEE94E4EC91 - 5206a94ab3ecadf5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AbacusTestKit.webServicesItems.getPortafolio(for: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;AbacusTestKit.CurrencyList&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AbacusTestKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/AbacusTestKit/AbacusTestKit/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "A752EDBF-78D2-4471-8548-3DEE94E4EC91 - f102b2dad2bb7575"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AbacusTestKit.webServicesItems.getPortafolio(for: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;AbacusTestKit.CurrencyList&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AbacusTestKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/AbacusTestKit/AbacusTestKit/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "2484">
+               </Location>
+               <Location
+                  uuid = "A752EDBF-78D2-4471-8548-3DEE94E4EC91 - 5206a94ab3ecadd4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AbacusTestKit.webServicesItems.getPortafolio(for: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;AbacusTestKit.CurrencyList&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AbacusTestKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/AbacusTestKit/AbacusTestKit/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "A752EDBF-78D2-4471-8548-3DEE94E4EC91 - f102b2dad2bb7596"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AbacusTestKit.webServicesItems.getPortafolio(for: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;AbacusTestKit.CurrencyList&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AbacusTestKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/AbacusTestKit/AbacusTestKit/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "2484">
+               </Location>
+               <Location
+                  uuid = "A752EDBF-78D2-4471-8548-3DEE94E4EC91 - 5206a94ab3ecad37"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AbacusTestKit.webServicesItems.getPortafolio(for: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;AbacusTestKit.CurrencyList&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AbacusTestKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/AbacusTestKit/AbacusTestKit/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67BB60C6-96D0-47CA-908D-1CF0AAD31DAE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AbacusTestKit/Services/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "getPortafolio(for:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "67BB60C6-96D0-47CA-908D-1CF0AAD31DAE - 5206a94ab3ecadb3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AbacusTestKit.webServicesItems.getPortafolio(for: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;AbacusTestKit.CurrencyList&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AbacusTestKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/AbacusTestKit/AbacusTestKit/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "67BB60C6-96D0-47CA-908D-1CF0AAD31DAE - 5206a94ab3ecadb3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AbacusTestKit.webServicesItems.getPortafolio(for: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;AbacusTestKit.CurrencyList&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AbacusTestKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/AbacusTestKit/AbacusTestKit/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "67BB60C6-96D0-47CA-908D-1CF0AAD31DAE - 5206a94ab3ecadb3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AbacusTestKit.webServicesItems.getPortafolio(for: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;AbacusTestKit.CurrencyList&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AbacusTestKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/AbacusTestKit/AbacusTestKit/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "67BB60C6-96D0-47CA-908D-1CF0AAD31DAE - 5206a94ab3ecad92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AbacusTestKit.webServicesItems.getPortafolio(for: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;AbacusTestKit.CurrencyList&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AbacusTestKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/AbacusTestKit/AbacusTestKit/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "360">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B522492-A939-4420-BC37-F2596CC877B8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AbacusTestKit/Services/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "getPortafolio(for:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3B522492-A939-4420-BC37-F2596CC877B8 - 5206a94ab3ecaefd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AbacusTestKit.webServicesItems.getPortafolio(for: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;AbacusTestKit.CurrencyList&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AbacusTestKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/AbacusTestKit/AbacusTestKit/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "3B522492-A939-4420-BC37-F2596CC877B8 - 5206a94ab3ecaedc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AbacusTestKit.webServicesItems.getPortafolio(for: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;AbacusTestKit.CurrencyList&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AbacusTestKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/AbacusTestKit/AbacusTestKit/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "3B522492-A939-4420-BC37-F2596CC877B8 - 5206a94ab3ecae3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AbacusTestKit.webServicesItems.getPortafolio(for: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;AbacusTestKit.CurrencyList&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AbacusTestKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/AbacusTestKit/AbacusTestKit/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6B6E79D3-CE13-4F8B-B7FC-3BAE3A1E5D4D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AbacusTestKit/Services/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "getCashCurrency(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6B6E79D3-CE13-4F8B-B7FC-3BAE3A1E5D4D - 60cfe60c661a8d86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AbacusTestKit.webServicesItems.getCashCurrency(completion: (Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AbacusTestKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/AbacusTestKit/AbacusTestKit/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "600">
+               </Location>
+               <Location
+                  uuid = "6B6E79D3-CE13-4F8B-B7FC-3BAE3A1E5D4D - a9affe11c2018e42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AbacusTestKit.webServicesItems.getCashCurrency(completion: (Swift.Optional&lt;Swift.Array&lt;AbacusTestKit.CashMoney&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AbacusTestKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/AbacusTestKit/AbacusTestKit/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "596">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E291AEF9-392E-4601-BBB4-F9E23BE03F06"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AbacusTestKit/Services/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "getCashCurrency(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E291AEF9-392E-4601-BBB4-F9E23BE03F06 - 44e0b1d1aa1f259f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AbacusTestKit.webServicesItems.getCashCurrency(completion: (Swift.Optional&lt;Swift.Array&lt;AbacusTestKit.CashMoney&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AbacusTestKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/AbacusTestKit/AbacusTestKit/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "1252">
+               </Location>
+               <Location
+                  uuid = "E291AEF9-392E-4601-BBB4-F9E23BE03F06 - aeba97bccc1eaa55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String, Swift.Double) -&gt; AbacusTestKit.CashMoney in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AbacusTestKit.webServicesItems.getCashCurrency(completion: (Swift.Optional&lt;Swift.Array&lt;AbacusTestKit.CashMoney&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AbacusTestKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/AbacusTestKit/AbacusTestKit/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "E291AEF9-392E-4601-BBB4-F9E23BE03F06 - 44e0b1d1aa1f2540"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AbacusTestKit.webServicesItems.getCashCurrency(completion: (Swift.Optional&lt;Swift.Array&lt;AbacusTestKit.CashMoney&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AbacusTestKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/AbacusTestKit/AbacusTestKit/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "1252">
+               </Location>
+               <Location
+                  uuid = "E291AEF9-392E-4601-BBB4-F9E23BE03F06 - aeba97bccc1eaa8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String, Swift.Double) -&gt; AbacusTestKit.CashMoney in closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AbacusTestKit.webServicesItems.getCashCurrency(completion: (Swift.Optional&lt;Swift.Array&lt;AbacusTestKit.CashMoney&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AbacusTestKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/AbacusTestKit/AbacusTestKit/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98BF80AD-05FA-4505-B2CD-23ED229A78FE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AbacusTestKit/Services/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "getCashCurrency(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9895E669-FC82-41F1-A1EF-1D62CA6979BC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AbacusTestKit/Services/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "getCashCurrency(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9895E669-FC82-41F1-A1EF-1D62CA6979BC - a9affe11c2018db6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AbacusTestKit.webServicesItems.getCashCurrency(completion: (Swift.Optional&lt;Swift.Array&lt;AbacusTestKit.CashMoney&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AbacusTestKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/AbacusTestKit/AbacusTestKit/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "2344">
+               </Location>
+               <Location
+                  uuid = "9895E669-FC82-41F1-A1EF-1D62CA6979BC - 44e0b1d1aa1f2350"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AbacusTestKit.webServicesItems.getCashCurrency(completion: (Swift.Optional&lt;Swift.Array&lt;AbacusTestKit.CashMoney&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AbacusTestKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/AbacusTestKit/AbacusTestKit/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A0FEF9D2-BA63-4B7E-913F-C02B6D4B7C64"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AbacusTestKit/Services/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "261"
+            endingLineNumber = "261"
+            landmarkName = "getGraphicsCurrency(for:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F8929D3-5D77-4F64-B658-DD4DCAC275E6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AbacusTestKit/Services/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "281"
+            endingLineNumber = "281"
+            landmarkName = "getGraphicsCurrency(for:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9F8929D3-5D77-4F64-B658-DD4DCAC275E6 - 558d268bd553fe51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AbacusTestKit.webServicesItems.getGraphicsCurrency(for: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;AbacusTestKit.GraphicCurrency&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AbacusTestKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/AbacusTestKit/AbacusTestKit/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "275"
+                  endingLineNumber = "275"
+                  offsetFromSymbolStart = "2484">
+               </Location>
+               <Location
+                  uuid = "9F8929D3-5D77-4F64-B658-DD4DCAC275E6 - dc7661b0de38358"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in AbacusTestKit.webServicesItems.getGraphicsCurrency(for: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;AbacusTestKit.GraphicCurrency&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AbacusTestKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/AbacusTestKit/AbacusTestKit/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "275"
+                  endingLineNumber = "275"
+                  offsetFromSymbolStart = "176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACBC8553-A363-4BB3-BE0B-F0A62EAE7AE9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AbacusTestKit/Services/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "289"
+            endingLineNumber = "289"
+            landmarkName = "getGraphicsCurrency(for:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "034274DB-B9A5-4B06-9207-3397B635BECD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AbacusTestKit/Services/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "295"
+            endingLineNumber = "295"
+            landmarkName = "getGraphicsCurrency(for:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E4BC67C4-2048-4C47-BFC2-A3DFAD522949"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AbacusTestKit/Services/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "294"
+            endingLineNumber = "294"
+            landmarkName = "getGraphicsCurrency(for:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36B6CA49-9C12-4068-AB3E-4FE0E27E07F2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AbacusTestKit/Services/ApiService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "229"
+            endingLineNumber = "229"
+            landmarkName = "getPercentageTicker(for:for:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "36B6CA49-9C12-4068-AB3E-4FE0E27E07F2 - 13503844a2d6b862"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AbacusTestKit.webServicesItems.getPercentageTicker(for: Swift.String, for: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;AbacusTestKit.Percentage&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AbacusTestKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/AbacusTestKit/AbacusTestKit/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "229"
+                  endingLineNumber = "229"
+                  offsetFromSymbolStart = "2260">
+               </Location>
+               <Location
+                  uuid = "36B6CA49-9C12-4068-AB3E-4FE0E27E07F2 - 13503844a2d6b862"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AbacusTestKit.webServicesItems.getPercentageTicker(for: Swift.String, for: Swift.String, completion: (Swift.Optional&lt;Swift.Array&lt;AbacusTestKit.Percentage&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "AbacusTestKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josepreatorian/Documents/Desarrollo%20IOS%20New/AbacusTestKit/AbacusTestKit/Services/ApiService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "229"
+                  endingLineNumber = "229"
+                  offsetFromSymbolStart = "2292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B4EDF38-0828-45E4-9F32-AE2381EC24DD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AbacusTestKit/ViewModels/PercentageViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "loadItems(strticker:strcurr:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
